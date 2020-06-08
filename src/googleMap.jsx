@@ -14,8 +14,9 @@ export class MapContainer extends React.Component {
         zoom={14}
         style={mapStyles}
         initialCenter={{
-         lat: -1.2884,
-         lng: 36.8233
+         lat: 9.0765,
+         lng: 7.3986
+         
         }}
       />
     );
